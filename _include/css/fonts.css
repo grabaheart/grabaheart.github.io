@@ -3,6 +3,10 @@ Font-Face Icons
 ================================================== */
 
 @font-face {
+	font-family: 'spin';
+		src:url('fonts/SPINSTEE.TTF') format('truetype');
+}
+@font-face {
 	font-family: 'Icons';
 	src:url('fonts/Icons.eot');
 	src:url('fonts/Icons.eot?#iefix') format('embedded-opentype'),
