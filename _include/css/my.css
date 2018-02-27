@@ -1,6 +1,18 @@
-.slide-content {
+body, * {
+	font-family: norse-bold ;
+	/* font-size: 1.2em; */
+}
+.slide-content, .title {
 	font-family: spin;
 }
-body {
-	font-family: norse !important;
+body{
+	font-size:20px;
+	line-height:28px;
+}
+nav#menu #menu-nav li a {
+	font-size: 20px;
+}
+.work-nav #filters li a {
+	font-size: 20px;
+	display: block;	
 }

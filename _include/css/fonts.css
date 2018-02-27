@@ -11,6 +11,10 @@ Font-Face Icons
 		src:url('fonts/Norse.otf') format('truetype');
 }
 @font-face {
+	font-family: 'norse-bold';
+		src:url('fonts/Norse-Bold.otf') format('truetype');
+}
+@font-face {
 	font-family: 'Icons';
 	src:url('fonts/Icons.eot');
 	src:url('fonts/Icons.eot?#iefix') format('embedded-opentype'),
