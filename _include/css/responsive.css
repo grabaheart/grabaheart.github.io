@@ -397,7 +397,7 @@
 		
 		header #logo a {
 			background-image: url(../img/logo_@2x.png);
-			background-size: 96px 30px;
+			/* background-size: 96px 30px; */
 		}
 		
 		.menu-nav {
@@ -406,7 +406,7 @@
 		}
 		
 		.type-work {
-			background-image: url(../img/filter-icon_@2x.png);
+			/* background-image: url(../img/filter-icon_@2x.png); */
 			background-size: 16px 16px;
 		}
 	}
