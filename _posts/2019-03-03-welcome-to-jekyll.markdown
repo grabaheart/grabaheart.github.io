@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Floating universe"
 date:   2019-03-03 12:50:29 +0100
 categories: jekyll update
 ---
