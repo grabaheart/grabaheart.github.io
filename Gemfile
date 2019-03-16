@@ -5,6 +5,7 @@ gem 'addressable', '= 2.3.8'
 
 group :jekyll_plugins do
 gem 'github-pages', '>= 93'
+gem 'jekyll-livereload'
 end
 
 group :jekyll_misc_plugins do
